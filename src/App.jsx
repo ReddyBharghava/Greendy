@@ -11,6 +11,7 @@ import Client from './components/Client'
 import Footer from './components/Footer'
 import Text from './components/Text'
 import StatsSection from './components/StatsSection'
+import FreeReviewModal from './components/FreeReviewModal'
 
 
 
